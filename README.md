@@ -1,6 +1,7 @@
 # Project-1: Employee Reimbursment System (ERS)
-*Due Monday March 15th, 2021*
-
+*Due Monday March 28th, 2022*
+The Project I Demoed to Revature is in the Project-1-main folder. Most of the files are jsp and HTML with minimal javascript.
+I used mySQL workbench for the database.
 ## Executive Summary
 * The Expense Reimbursement System (ERS) will manage the process of reimbursing employees for expenses incurred while on company time. 
 * All employees in the company can login and submit requests for reimbursement and view their past tickets and pending requests. 
