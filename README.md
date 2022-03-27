@@ -1,6 +1,6 @@
 # Project-1: Employee Reimbursment System (ERS)
 *Due Monday March 28th, 2022*
-The dynamic web app I demoed to Revature is in the project-1-main folder. Most of the files are jsp and HTML with some javascript.
+The dynamic web app I demoed to Revature is in the project-1-main folder. Most of the files are jsp and HTML with some javascript and bootstrap styling(CSS).
 I used mySQL workbench for the database.
 ## Executive Summary
 * The Expense Reimbursement System (ERS) will manage the process of reimbursing employees for expenses incurred while on company time. 
