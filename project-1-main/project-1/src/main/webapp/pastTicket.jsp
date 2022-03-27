@@ -14,7 +14,7 @@
 <style>
 .font {
 	margin: 10px 0px 30px 100px;
-	color: black;
+	color: white;
 }
 
 .div {
@@ -63,7 +63,7 @@ img {
 }
 </style>
 </head>
-<body style="background-color: #00b7ff;">
+<body style="background-color: black; color: White;">
 	<div class="div">
 		<div class="font">
 			<div align="center">
