@@ -8,7 +8,12 @@ I used MySQL Workbench for the database.
 
 For the demo you only need to create the above two tables and enter some data.
 
-## Executive Summary
+The p1final-backend option utilizes the logical model for MySQL tables as you see below.
+
+![finalbackendTables](https://user-images.githubusercontent.com/99214724/161402553-5abba081-1a5e-4d31-828b-cb3d71ad70ba.jpg)
+
+## Executive Summary!
+
 * The Expense Reimbursement System (ERS) will manage the process of reimbursing employees for expenses incurred while on company time. 
 * All employees in the company can login and submit requests for reimbursement and view their past tickets and pending requests. 
 * Finance managers can log in and view all reimbursement requests and past history for all employees in the company. 
