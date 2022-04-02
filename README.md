@@ -3,7 +3,10 @@
 The dynamic web app I demoed to Revature is in the project-1-main folder and was ran on an Apache Tomcat server. Most of the files are JSP and HTML with some Javascript and Bootstrap styling(CSS). The p1final-backend folder and thymeleaf-crud folders contain a possible alternate route using Spring Boot for the P1 project, but neither are a complete demo like the dynamic web app I displayed to Revature.
 I used MySQL Workbench for the database.
 
-![image](https://user-images.githubusercontent.com/99214724/161402066-61cbaebd-9be5-482e-82d7-3fe476eff6e9.png)
+![managerTableP1](https://user-images.githubusercontent.com/99214724/161402196-27095bda-368f-46db-bb48-2433b586c92e.jpg)
+![employeeTableP1](https://user-images.githubusercontent.com/99214724/161402197-d6fbc13d-5269-47ee-8eef-955dce337218.jpg)
+
+For the demo you only need to create the above two tables and enter some data.
 
 ## Executive Summary
 * The Expense Reimbursement System (ERS) will manage the process of reimbursing employees for expenses incurred while on company time. 
