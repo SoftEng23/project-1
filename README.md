@@ -12,6 +12,14 @@ The p1final-backend option utilizes the logical model for MySQL tables as you se
 
 ![backendTables](https://user-images.githubusercontent.com/99214724/161402601-8635df0f-7c3c-4afe-a805-d5724b78e11d.jpg)
 
+For the thymeleaf-crud example you need a user_info, employee, and reimbursement table.
+
+![thymeleafTables](https://user-images.githubusercontent.com/99214724/161402799-fb19fdd7-2c03-4664-8d47-a967c74e86f7.jpg)
+
+![reimbThymeleaf](https://user-images.githubusercontent.com/99214724/161402834-5fe785e6-776a-40eb-9400-496d4886a866.jpg)
+
+![userinfoTable](https://user-images.githubusercontent.com/99214724/161402864-155ded99-e233-4880-8d1f-61152ddf13dd.jpg)
+
 ## Executive Summary!
 
 * The Expense Reimbursement System (ERS) will manage the process of reimbursing employees for expenses incurred while on company time. 
