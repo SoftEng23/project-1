@@ -10,7 +10,7 @@ For the demo you only need to create the above two tables and enter some data.
 
 The p1final-backend option utilizes the logical model for MySQL tables as you see below.
 
-![finalbackendTables](https://user-images.githubusercontent.com/99214724/161402553-5abba081-1a5e-4d31-828b-cb3d71ad70ba.jpg)
+![backendTables](https://user-images.githubusercontent.com/99214724/161402601-8635df0f-7c3c-4afe-a805-d5724b78e11d.jpg)
 
 ## Executive Summary!
 
