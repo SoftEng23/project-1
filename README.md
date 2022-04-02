@@ -20,6 +20,9 @@ For the thymeleaf-crud example you need a user_info, employee, and reimbursement
 
 ![userinfoTable](https://user-images.githubusercontent.com/99214724/161402864-155ded99-e233-4880-8d1f-61152ddf13dd.jpg)
 
+
+*Remember each folder is a different example or way of attacking the same user stories to create a working web app(these are not meant to be combined)*
+
 ## Executive Summary!
 
 * The Expense Reimbursement System (ERS) will manage the process of reimbursing employees for expenses incurred while on company time. 
