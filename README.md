@@ -6,7 +6,10 @@ I used MySQL Workbench for the database.
 ![managerTableP1](https://user-images.githubusercontent.com/99214724/161402196-27095bda-368f-46db-bb48-2433b586c92e.jpg)
 ![employeeTableP1](https://user-images.githubusercontent.com/99214724/161402197-d6fbc13d-5269-47ee-8eef-955dce337218.jpg)
 
-For the demo you only need to create the above two tables and enter some data.
+For the demo you only need to create the above two tables and enter some data. You will also need to use these settings to run the app.
+
+![p1settings1](https://user-images.githubusercontent.com/99214724/162049213-040657d3-f002-4c22-a34e-03a58cf938cf.jpg)
+![necessaryjarsP1](https://user-images.githubusercontent.com/99214724/162049221-009f6fee-26a8-43be-b1c9-aa0006ee25a7.jpg)
 
 The p1final-backend option utilizes the logical model for MySQL tables as you see below.
 
