@@ -10,6 +10,12 @@ For the demo you only need to create the above two tables and enter some data. Y
 
 ![p1settings1](https://user-images.githubusercontent.com/99214724/162049213-040657d3-f002-4c22-a34e-03a58cf938cf.jpg)
 ![necessaryjarsP1](https://user-images.githubusercontent.com/99214724/162049221-009f6fee-26a8-43be-b1c9-aa0006ee25a7.jpg)
+![AddBuildPathEntries](https://user-images.githubusercontent.com/99214724/165400459-49260e88-3450-4566-8e9a-65386140ba05.jpg)
+![ManagerLoginScreen](https://user-images.githubusercontent.com/99214724/165400487-d620bf58-2b89-47b6-a9cd-ad8469331a8b.jpg)
+![ManagerTicketCheck](https://user-images.githubusercontent.com/99214724/165400702-366f21ac-35ef-42f6-91d9-012d59f4d43d.jpg)
+![UpdateStatus](https://user-images.githubusercontent.com/99214724/165400708-5390838c-b525-4f5d-9eb1-dc4d23e8b8a1.jpg)
+![reimbportal](https://user-images.githubusercontent.com/99214724/165400979-24200e22-7e51-4594-81ac-7369710dd41c.jpg)
+![Submitted](https://user-images.githubusercontent.com/99214724/165401052-781f7846-5ebe-4365-be6c-5b20f00b4bf2.jpg)
 
 The p1final-backend option utilizes the logical model for MySQL tables as you see below.
 
